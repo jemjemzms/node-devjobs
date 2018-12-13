@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A job find app using NodeJs an ORM for relational databases called Sequelize that is connected to the PostgreSQL database.
+A job find app using NodeJs and an ORM for relational databases called Sequelize that is connected to the PostgreSQL database.
 
 ## Installs
 
